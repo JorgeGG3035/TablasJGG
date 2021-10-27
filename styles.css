@@ -16,6 +16,10 @@ section {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
